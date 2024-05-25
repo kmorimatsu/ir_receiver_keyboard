@@ -1,5 +1,6 @@
 # ir_receiver_keyboard
-IR receiver vertual keyboard
+IR receiver vertual keyboard  
+![photo.jpg](photo.jpg)
 ## What is it?
 This simple IR receiver made of Raspberry Pi Pico receives IR signal and send the keys to PC as a vertual USB keyboard.
 ## Schematic
